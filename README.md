@@ -32,7 +32,7 @@ This is a solution to the [Meet landing page on Frontend Mentor](https://www.fro
 
 ### Links
 
-- Frontend Mentor solution url: 
+- Frontend Mentor solution url: https://www.frontendmentor.io/solutions/responsive-meet-landing-page-usVKtrOt3p 
 - Live Site URL: https://atif-dev.github.io/FEM_meet-landing-page/
 
 ## My process
