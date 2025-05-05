@@ -27,13 +27,13 @@ This is a solution to the [Meet landing page on Frontend Mentor](https://www.fro
 
 ### Screenshots
 
-![PC View]()
-![Mobile view]()
+![PC View](https://github.com/atif-dev/FEM_meet-landing-page/blob/main/screenshots/Screen%201440%20by%20900.png?raw=true)
+![Mobile view](https://github.com/atif-dev/FEM_meet-landing-page/blob/main/screenshots/iPhone%2015%20Pro%20Max.png?raw=true)
 
 ### Links
 
 - Frontend Mentor solution url: 
-- Live Site URL:
+- Live Site URL: https://atif-dev.github.io/FEM_meet-landing-page/
 
 ## My process
 
