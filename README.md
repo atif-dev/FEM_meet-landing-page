@@ -60,7 +60,7 @@ This is a solution to the [Meet landing page on Frontend Mentor](https://www.fro
 
 ## Author
 
-- [atif_devs @ Frontendmentor](https://www.frontendmentor.io/profile/atif-dev)
+- [atif-dev @ Frontendmentor](https://www.frontendmentor.io/profile/atif-dev)
 
 
 
