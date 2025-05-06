@@ -37,7 +37,8 @@ This is a solution to the [Meet landing page on Frontend Mentor](https://www.fro
 
 ## My process
 
-  - Built with HTML Semantic Elements.
+  - Built according to figma design file and with HTML Semantic Elements.
+  - Checked multiple things of figma design(Desktop, Tablet, Mobile) after development.
   - Did Cross browser testing(Chrome, Firefox, Edge).
   - Checked responsiveness for multiple devices using LT Browser.
   - Checked responsiveness using physical 1920 * 1200 screen.
